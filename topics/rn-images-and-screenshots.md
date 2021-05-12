@@ -36,11 +36,7 @@ Images are an important part of the release plans. They provide visual context f
 - Don't submit an image unless you are have confirmed that the information it contains is allowed to be seen by the public.
 - Don't take screenshots of your entire desktop if it's not pertitnent to the image. 
   - Many times, screenshots show fullscreens with browser tabs, taskbars, and desktops visible. If those are not necessary, crop down to include just the program in the image.
+- Don't use GIFs. We can't support moving images in the PDF. 
 
-## GIFs
 
-- GIFs are being used more often as a way to enhance the feature information, but they come with their own considerations.
-  - They cannot auto-loop. They must display once, and if the customer wants to see it again, they must refresh the screen. This is an accessbility issue. 
-  - The steps and information in the Gif must be documented in the feature description as well. This will lengthen the description, but it's necessary for accessbilty. 
-  - It cannot be larger than *insert size*. 
 
