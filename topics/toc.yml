@@ -62,6 +62,8 @@
         href: rn-Additionalcapabilities.md
       - name: Reason for Public Preview when set to blank or NA
         href: rn-ReasonforPublicPreview.md
+      - name: Subscribe to a record
+        href: rn-Subscribetoarecord.md
     - name: Content development
       items:
       - name: Workflow
