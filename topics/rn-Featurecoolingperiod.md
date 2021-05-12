@@ -1,6 +1,6 @@
 ---
 title: " Feature: Cooling period "
-ms.date: 09/01/2020
+ms.date: 05/12/2021
 ms.service: 
 ms.topic: "conceptual"
 author: "Chitra"
