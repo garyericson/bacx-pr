@@ -16,4 +16,6 @@ Notifications are triggered when any of the following changes takes place in the
 -	When Release plan is moved from one wave to another
 -	When Release plan is set to Holdback type "Newsworthy or monetizable" 
 -	When release plans are associated or de-associated to a newsworthy or monetizable moments,
+
+
 ![Step two](media/Capture7.PNG"Step two")
