@@ -64,6 +64,12 @@
             href: rn-ReasonforPublicPreview.md
           - name: Subscribe to a record
             href: rn-Subscribetoarecord.md
+        - name: April 2021 6
+          items:
+          - name: Feature Holdback plans
+            href: rn-FeatureHoldbackplans.md
+          - name: Feature Cooling period
+            href: rn-Featurecoolingperiod.md
     - name: Content development
       items:
       - name: Workflow
