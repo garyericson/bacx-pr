@@ -18,4 +18,4 @@ Notifications are triggered when any of the following changes takes place in the
 -	When release plans are associated or de-associated to a newsworthy or monetizable moments,
 
 
-![Step two](media/Capture7.PNG"Step two")
+![Step two](media/Capture7.PNG "Step two")
