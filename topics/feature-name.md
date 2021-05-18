@@ -14,7 +14,9 @@ manager: "renwe"
 |-------------|------------|
 | TBD | TBD |
 
-This appears as the **Title**. It's shown as the H1 on the individual release plan's page and in the table on the **What's new and planned** page. Feature names should not exceed 55 characters, otherwise it can impact the Search Engine Optimization (SEO). 
+This appears as the **Title**. It's shown as the H1 on the individual release plan's page and in the table on the **What's new and planned** page. Feature names should not exceed 55 characters, otherwise it can impact the Search Engine Optimization (SEO). Long feature names clutter the table of contents and can negatively impact the user experience. Keep in mind that titles are often longer in other languages when translated from the English release plans. For example, the image below shows a long feature name in the TOC in both English and German.
+
+![Example of a long feature name in English and German](media/longtitle.png "Example of a long feature name in English and German")
 
 ## Purpose
 The feature name showcases the core aspects of a feature quickly, clearly, and concisely. 
