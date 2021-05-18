@@ -14,13 +14,13 @@ manager: "renwe"
 |-------------|------------|
 | TBD | TBD |
 
-The feature detail provides the technical aspects of a feature and is the root of the release plans. It is published on the live site.
+The **Feature detail** provides the technical aspects of a feature and is the root of the release plans. It is published on the live site.
 
 ## Purpose
-The feature detail is the main content of the release plans. It is where the feature is described, and the focus is on important details and technical content. 
+The **Feature detail** is the main content of the release plans. It is where the feature is described, and the focus is on important details and technical content. 
 
 ## Guidelines
-Use the following guidelines when writing the feature detail:
+Use the following guidelines when writing the **Feature detail**:
 
 * Be explicit and clear.
 * Write directly to the user, using words like "you."
