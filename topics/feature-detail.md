@@ -30,6 +30,6 @@ Use the following guidelines when writing the feature detail:
 * Link to relevant docs using Markdown syntax.
 * Use the present tense. For example, "bots can use" instead of "bots will be able to use."
 
-![Example of a feature detail](media/featuredetail.png "Example of a feature detail")
+[![Example of a feature detail](media/featuredetail.png "Example of a feature detail")](https://docs.microsoft.com/power-platform-release-plan/2021wave1/data-integration/sap-erp-connector-power-automate-power-apps)
 
 
