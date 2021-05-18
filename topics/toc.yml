@@ -68,10 +68,20 @@
       items:
       - name: Workflow
         href: rn-content-workflow.md
-      - name: Best practices and requirements
-        href: rn-dos-donts.md
-      - name: Images, screenshots, and GIFs
-        href: rn-images-and-screenshots.md
+      - name: Product overview
+        href: product-overview.md
+      - name: L2 overview
+        href: L2-overview.md
+      - name: Feature name
+        href: feature-name.md
+      - name: Metadata
+        href: metadata.md
+      - name: Feature detail
+        href: feature-detail.md
+      - name: Business value
+        href: business-value.md
+      - name: Images
+        href: images.md
     - name: "Contributor's form"
       items: 
     - name: "BACX Owner's form"
