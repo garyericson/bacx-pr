@@ -42,8 +42,6 @@
       href: GitHub-FAQ.md
   - name: Release plans guide
     items:
-    - name: Overview
-      href: rn-guide.md
     - name: Production schedule
       href: rn-production-schedule.md
     - name: "What's new in the release planner app"
@@ -76,40 +74,18 @@
         href: feature-name.md
       - name: Metadata
         href: metadata.md
-      - name: Feature detail
-        href: feature-detail.md
       - name: Business value
         href: business-value.md
+      - name: Feature detail 
+        href: feature-detail.md
       - name: See also
         href: see-also.md
       - name: Images
         href: images.md
     - name: "Contributor's form"
       items: 
-    - name: "BACX Owner's form"
+    - name: "CX owner's form"
       items: 
-      - name: Quick-reference guide
-        href: rn-quick-reference-guide.md
-      - name: FAQs
-        href: Tool-FAQ.md
-      - name: Overview
-        href: tool-get-started.md
-      - name: Create new entry
-        href: tool-create-new-entry.md
-      - name: Generate review document
-        href: generate-review-document.md
-      - name: Add images
-        href: add-images.md
-      - name: Best practices and requirements
-        href: tool-best-practices.md
-      - name: Repos and POCs
-        href: rn-repo.md
-      - name: Best practices
-        href: rn-gh-best-practices.md
-      - name: Dos and Don'ts
-        href: rn-gh-dos-and-donts.md
-      - name: Merging & approving PRs
-        href: rn-gh-merging-approving-prs.md
   - name: Style guide
     items:
     - name: "SEO: Tips for writing H1s"
