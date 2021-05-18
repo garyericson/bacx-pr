@@ -19,7 +19,7 @@ The product overview gives a top-level description of each product (for example,
 ## Purpose
 At this level, the overview should showcase the best parts of a product, what's new in the product, and a highlight of supporting resources. For example:
 
-![Example of a product overview](media/powerbi-overview.png "Example of a product overview")
+[![Example of a product overview](media/powerbi-overview.png "Example of a product overview")](https://docs.microsoft.com/power-platform-release-plan/2021wave1/power-bi/)
 
 ## Guidelines
 
