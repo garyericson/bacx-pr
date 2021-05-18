@@ -14,10 +14,8 @@ manager: "renwe"
 |-------------|------------|
 | TBD | TBD |
 
-The metadata is "hidden" content that helps users find topics through search engines. 
-
 ## Purpose
-Search engines use the content in the metadata field to generate relevant results to users. Below is an example of what users see in their searches:
+The metadata is "hidden" content that helps users find topics through search engines. Search engines use the content in the metadata field to generate relevant results to users. Below is an example of what users see in their searches:
 
 ![Example of search engine preview](media/metadataSEO.png "Example of search engine preview")
 
