@@ -39,7 +39,7 @@ Here are some other tips to make sure screens are captured cleanly and to avoid 
 
 - Don't capture your cursor if it isn't pertinent to the image. 
   - If it is pertinent, be sure the cursor isn't blocking any text or graphics.
-  >![NOTE]
+  >[!NOTE]
   >Most screen capture programs have settings that will not capture cursors when screenshots are taken.
 
 - Create a useful image filename that is free from typos. When users save images from release plans, it saves with the filename you've created. 
@@ -58,7 +58,7 @@ Alt-text is important not only because it provides the captions for our screens,
 
 Alt-text also provides some SEO value to your features.
 
->![NOTE]
+>[!NOTE]
 >The alt-text provided in the release plans is used to generate the figure captions in the PDF.
 
 
