@@ -14,12 +14,10 @@ manager: "renwe"
 |-------------|------------|
 | TBD | TBD |
 
-The product overview gives a top-level description of each product (for example, Power Apps).
-
 ## Purpose
-At this level, the overview should showcase the best parts of a product, what's new in the product, and a highlight of supporting resources. For example:
+The **Product overview** gives a top-level description of each product (for example, Power Apps). At this level, the overview should showcase the best parts of a product, what's new in the product, and a highlight of supporting resources. For example:
 
-![Example of a product overview](media/powerbi-overview.png "Example of a product overview")
+[![Example of a Product overview](media/powerbi-overview.png "Example of a product overview")](https://docs.microsoft.com/power-platform-release-plan/2021wave1/power-bi/)
 
 ## Guidelines
 
@@ -37,7 +35,7 @@ At this level, the overview should showcase the best parts of a product, what's 
     * *Product name* docs 
     * *Product name* training on Microsoft Learn
 
-> ![NOTE]
+> [!NOTE]
 > We won't have links to supporting content when we first publish. This information becomes available as the features are developed and supporting content is created. Also, they are not required fields. 
 
 

@@ -8,7 +8,15 @@ ms.author: "renwe"
 ---
 # Workflow
 
+There are many working parts to publishing release plans to docs.microsoft.com. It is important to know how each step and role impact the overall process.  
+
+The graphic below shows each step of the process:  
+
 ![Workflow](media/workflow.png "Workflow")
+
+The content is created in the release planner app, and a flow pushes the content to GitHub as pull requests (PRs). The flow pushes edited content back into the release app. This is called the "reverse sync" as shown in the graphic below:  
+
+![Workflow process](media/workflowprocess.png "Workflow process")  
 
 <!--Our **wave 2** release plans are created and updated in the Release Planner Tool and edited in GitHub. **April '19** release notes are created, updated, and edited in GitHub. *You'll need to be familiar with both.*-->
 
