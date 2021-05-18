@@ -21,7 +21,7 @@ Always preview the feature to ensure the image and text display the way you've i
 
 It's important to consider the following guidelines before you submit your images.
 
-### Quality
+## Quality
 
 Make sure your screenshots, graphics, and images are clear. If it is blurry for you, it will be worse for the readers when it is published. Also, be sure to use images with clear content if it's meant to be readable. Below is an example of a blurry screenshot:  
 
@@ -44,7 +44,7 @@ Here are some other tips to make sure screens are captured cleanly and to avoid 
 
 - Create a useful image filename that is free from typos. When users save images from release plans, it saves with the filename you've created. 
 
-### Legal and technical 
+## Legal and technical 
 
 The release planner app only accepts images with .jpeg or .png extensions.  
 
@@ -52,7 +52,7 @@ Don't use copyrighted images.
 
 Ensure all the data, names, addresses, profile images, email addresses, phone numbers, and other content is approved sample data and follows CELA guidelines. Images that contain PII will be removed by editors. You will need to confirm that the content in the images is safe to publish and be seen by the public by toggling the check before submitting your image.
 
-###  Accessibility 
+##  Accessibility 
 
 Alt-text is important not only because it provides the captions for our screens, it also makes our content accessible to all of our readers. The alt-text should be a detailed description of the image or graphic, include keywords, and be no longer than 125 characters (screen readers tend to cut off at this length). 
 
