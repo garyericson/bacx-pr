@@ -14,10 +14,8 @@ manager: "renwe"
 |-------------|------------|
 | TBD | TBD |
 
-The **Product overview** gives a top-level description of each product (for example, Power Apps).
-
 ## Purpose
-At this level, the overview should showcase the best parts of a product, what's new in the product, and a highlight of supporting resources. For example:
+The **Product overview** gives a top-level description of each product (for example, Power Apps). At this level, the overview should showcase the best parts of a product, what's new in the product, and a highlight of supporting resources. For example:
 
 [![Example of a Product overview](media/powerbi-overview.png "Example of a product overview")](https://docs.microsoft.com/power-platform-release-plan/2021wave1/power-bi/)
 
