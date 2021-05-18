@@ -21,7 +21,7 @@ This overview should speak to the value of the features as a group, how they ben
 
 ## Guidelines
 
-![Example of an L2 overview](media/L2overview.png "Example of an L2 overview")
+[![Example of an L2 overview](media/L2overview.png "Example of an L2 overview")](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/service/dynamics365-customer-service/knowledge-management)
 
 
 
