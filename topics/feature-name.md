@@ -27,4 +27,4 @@ Leading with a verb, describe briefly what a user can do (for example, *Add imag
 > ![NOTE] 
 > Editors and writers do not change feature names becaue this impacts the publish and the app. Generally, they will only fix typos or remove invalid characters. Anything updated in the feature name in the app will impact published content as this impacts URLs. The feature name needs to be correct and succinct from the beginning.
 
-![Example of a feature name](media/featurename.png "Example of a feature name")
+[![Example of a feature name](media/featurename.png "Example of a feature name")](https://docs.microsoft.com/power-platform-release-plan/2021wave1/power-virtual-agents/add-images-videos-topics)
