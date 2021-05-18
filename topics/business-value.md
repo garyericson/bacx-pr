@@ -17,7 +17,9 @@ manager: "renwe"
 The business value publishes before the feature detail in the release plans. It outlines the benefits and added values that each product offers to its customers.
 
 ## Purpose
-The business value articulates why a customer should invest in this feature, why they should care, and how it will transform or impact their business. 
+The business value articulates why a customer should invest in this feature, why they should care, and how it will transform or impact their business. For example: 
+
+![Example of a business value](media/businessvalue.png "Example of a business value")
 
 ## Guidelines
 Use the following guidelines when writing the business value:
