@@ -14,10 +14,8 @@ manager: "renwe"
 |-------------|------------|
 | TBD | TBD |
 
-The **See also** section is used to direct users to helpful and relevant supporting content. 
-
 ## Purpose
-The links under **See also** provide an additional layer of support to our users thus improving the user experience. Since the release plans are highly-focused and technical, this section gives users the option to learn more about the product, features, capabilities, and more. 
+The **See also** section is used to direct users to helpful and relevant supporting content. The links under **See also** provide an additional layer of support to our users thus improving the user experience. Since the release plans are highly-focused and technical, this section gives users the option to learn more about the product, features, capabilities, and more. 
 
 >![NOTE]
 >Links in **See also** have identifiers behind them to let users know what type of resource they're being linked to as shown in the screen below. There are videos, blogs, and docs (for product documentation).
