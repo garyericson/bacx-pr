@@ -35,7 +35,7 @@ The **Product overview** gives a top-level description of each product (for exam
     * *Product name* docs 
     * *Product name* training on Microsoft Learn
 
-> ![NOTE]
+> [!NOTE]
 > We won't have links to supporting content when we first publish. This information becomes available as the features are developed and supporting content is created. Also, they are not required fields. 
 
 
