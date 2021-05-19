@@ -1,24 +1,61 @@
 ---
-title: "Workflow"
+title: "Release plans overview"
 ms.date: 08/21/2019
 ms.service: 
 ms.topic: "conceptual"
 author: "ReneeW-CPub"
 ms.author: "renwe"
 ---
-# Workflow
 
-There are many working parts to publishing release plans to docs.microsoft.com. It is important to know how each step and role impact the overall process.  
+# Release plans overview
 
-The graphic below shows each step of the process:  
+This guide provides information on how CX owners, contributors, PMs, editors, and other team members can add to our official release plans content on [docs.microsoft.com](https://docs.microsoft.com/business-applications-release-notes/). This guide provides specific information about release plans from content development to publishing. 
+
+> [!NOTE]
+> Since this guide is specific to **Release plans**, there will be differences from the [Contributors' Guide for Docs](contributors-guide.md). In instances of conflict, this guide wins.
+
+## Current release plans
+
+These release plans and PDFs are current and updated regularly.
+
+- **[Dynamics 365: 2021 release wave 1 plan](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/)**
+- **[Microsoft Power Platform: 2021 release wave 1 plan](https://docs.microsoft.com/power-platform-release-plan/2021wave1/)**
+
+## Archived release plans
+
+These release plans and PDFs are archived and will no longer be updated.
+
+- **[Dynamics 365: 2020 release wave 2 plan](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/)**
+- **[Microsoft Power Platform: 2020 release wave 2 plan](https://docs.microsoft.com/power-platform-release-plan/2020wave2/)**
+- **[Dynamics 365: 2020 release wave 1 plan](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/index)**
+- **[Microsoft Power Platform: 2020 release wave 1 plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave1/)**
+- **[Dynamics 365: 2019 release wave 2 plan](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/)**
+- **[Power Platform: 2019 release wave 2 plan](https://docs.microsoft.com/power-platform-release-plan/2019wave2/)**
+- **[April '19 release notes](https://docs.microsoft.com/business-applications-release-notes/April19/index)**
+- **[October '18 release notes](https://docs.microsoft.com/business-applications-release-notes/October18/index)**
+- **[April '18 release notes](https://docs.microsoft.com/en-us/business-applications-release-notes/April18/index)**
+
+## Release plan fields
+
+| Field | Description | Audience |
+| ----- | ----- | -----|
+| [Product overview](product-overview.md) | A top-level description of each product that showcases the best parts of a product and new features | Business decision makers, Technical roles |
+| [L2 overview](L2-overview.md) | A top-level description of each subgroup within a main product | Business decision makers |
+| [Feature name](feature-name.md) | Showcases the core aspects of a feature quickly, clearly, and concisely | Business decision makers, Technical roles |
+| [Metadata](metadata.md) | "Hidden" content that helps users find topics through search engines | Business decision makers, Technical roles |
+| [Business value](business-value.md) | Outlines the benefits and added values that each product offers to its customers | Business decision makers |
+| [Feature detail](feature-detail.md) | A description of the technical aspects of a feature, focusing on the most important details | Business decision makers, Technical roles | 
+
+
+## Release plans workflow
+
+There are many working parts to publishing release plans to docs.microsoft.com. It is important to know how each step and role impact the overall process. The graphic below shows each step of the process:  
 
 ![Workflow](media/workflow.png "Workflow")
 
 The content is created in the release planner app, and a flow pushes the content to GitHub as pull requests (PRs). The flow pushes edited content back into the release app. This is called the "reverse sync" as shown in the graphic below:  
 
-![Workflow process](media/workflowprocess.png "Workflow process")  
-
-<!--Our **wave 2** release plans are created and updated in the Release Planner Tool and edited in GitHub. **April '19** release notes are created, updated, and edited in GitHub. *You'll need to be familiar with both.*-->
+![Workflow process](media/workflowprocess.png "Workflow process")
 
 
 <!--## Release Planner Tool-->

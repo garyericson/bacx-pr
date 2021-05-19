@@ -64,7 +64,7 @@
             href: rn-Subscribetoarecord.md
     - name: Content development
       items:
-      - name: Workflow
+      - name: Release plans overview
         href: rn-content-workflow.md
       - name: Product overview
         href: product-overview.md
