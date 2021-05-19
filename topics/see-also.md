@@ -12,16 +12,14 @@ manager: "renwe"
 
 | Audience | Description |
 |-------------|------------|
-| TBD | TBD |
+| Business decision makers | People within an organization that are looking to understand what the investment areas and overview mean for business, how they would be impacted by it, and why they should care. |
+| Technical roles | People within an organization that are looking to understand what the feature is and how it will work. |
 
 ## Purpose
 The **See also** section is used to direct users to helpful and relevant supporting content. The links under **See also** provide an additional layer of support to our users thus improving the user experience. Since the release plans are highly-focused and technical, this section gives users the option to learn more about the product, features, capabilities, and more. 
 
 > [!NOTE]
 > Links in **See also** have identifiers behind them to let users know what type of resource they're being linked to as shown in the screen below. There are videos, blogs, and docs (for product documentation).
-
-[![Example of See also](media/see-also.png "Example of See also")](https://docs.microsoft.com/power-platform-release-plan/2020wave2/power-bi/automated-template-apps-installation-configuration)
-
 
 ## Guidelines
 
@@ -35,4 +33,6 @@ Use the following guidelines when including **See also** links:
   > [!NOTE]
   > Editors have to manually remove language references in URLs.
 
+Below is an example of a strong See also section. Click the image to go to the release plan.
 
+[![Example of See also](media/see-also.png "Example of See also")](https://docs.microsoft.com/power-platform-release-plan/2020wave2/power-bi/automated-template-apps-installation-configuration)
