@@ -8,11 +8,12 @@ ms.author: "emcheachern"
 manager: "renwe"
 ---
 
+
 # L2 overview
 
 | Audience | Description |
 |-------------|------------|
-| TBD | TBD |
+| Business decision makers | People within an organization that are looking to understand what the investment areas and overview mean for business and how they would be impacted by it. **Why** should they care? |
 
 ## Purpose
 The **L2 overview** gives a top-level description of each subgroup within a main product (for example, **Power Apps** is the product and **Sophisticated apps on a unified platform** is the L2). This overview should speak to the value of the features as a group, how they benefit the customer, and how they work together.
