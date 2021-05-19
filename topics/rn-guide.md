@@ -65,12 +65,12 @@ These release plans and PDFs are archived and will no longer be updated.
 
 | Field | Description | Audience |
 | ----- | ----- | -----|
-| Product overview | A top-level description of each product that showcases the best parts of a product and new features | Business decision makers, Technical roles |
-| L2 overview | A top-level description of each subgroup within a main product | Business decision makers |
-| Feature name | Showcases the core aspects of a feature quickly, clearly, and concisely | Business decision makers, Technical roles |
-| Metadata | "Hidden" content that helps users find topics through search engines | Business decision makers, Technical roles |
-| Business value | Outlines the benefits and added values that each product offers to its customers | Business decision makers |
-| Feature detail | A description of the technical aspects of a feature, focusing on the most important details | Business decision makers, Technical roles | 
+| [Product overview](product-overview.md) | A top-level description of each product that showcases the best parts of a product and new features | Business decision makers, Technical roles |
+| [L2 overview](L2-overview.md) | A top-level description of each subgroup within a main product | Business decision makers |
+| [Feature name](feature-name.md) | Showcases the core aspects of a feature quickly, clearly, and concisely | Business decision makers, Technical roles |
+| [Metadata](metadata.md) | "Hidden" content that helps users find topics through search engines | Business decision makers, Technical roles |
+| [Business value](business-value.md) | Outlines the benefits and added values that each product offers to its customers | Business decision makers |
+| [Feature detail](feature-detail.md) | A description of the technical aspects of a feature, focusing on the most important details | Business decision makers, Technical roles | 
 
 
 ## Release plans workflow
