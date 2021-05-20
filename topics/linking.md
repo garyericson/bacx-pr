@@ -61,6 +61,8 @@ Is there a reason the link needs to use a link simplification and redirection se
 
 ## Create relative links
 
+A *relative link* navigates relative your current location in a URL to a file in the same site structure. An *absolute link* is the full URL path to a page. When creating links on Docs or Learn, we have a strong preference (now enforced by a build suggestion) to use relative links. 
+
 Relative links are the best way to link between content on docs since they will function correctly in air-gapped environments, on the live docs site, and on the review site. The method of creating the relative path differs, depending on whether or not the target content is in the same repo and docset.
 
 ### Links to articles in the same docset
@@ -83,6 +85,11 @@ For example:
 ```md
 [link text](../../folder/filename.md)
 ```
+
+:::image type="content" source="media/relative-link.png" alt-text="image showing relative link traversing folders":::
+
+> [!NOTE]
+> A relative link to the same topic will be different depending on which topic you are inserting the link into.  
 
 Instead of constructing a relative path from the current file to the target file, you can start the file path at the root of the docset. This type of link starts with **~**. For example, if the docset's root folder is **docs**, the current file is **docs/ide/current-file.md**, and the target file is **docs/test/unit-test/load-tests.md**, the link is as follows:
 
