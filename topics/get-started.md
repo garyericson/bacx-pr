@@ -66,9 +66,9 @@ These are the repos where we host our content:
 | Insights apps (Dynamics 365 Customer Insights) | <https://github.com/MicrosoftDocs/customer-insights-pr>              |
 | Power Automate                   | <https://github.com/MicrosoftDocs/power-automate-docs-pr>              |
 | Mixed Reality                    | https://github.com/microsoftdocs/dynamics-365-mixed-reality-pr         |
-| PowerApps                        | <https://github.com/MicrosoftDocs/powerapps-docs-pr>                   |
-| Power platform                   | <https://github.com/MicrosoftDocs/power-platform-pr>                   |
-| Power platform Release Plans     | <https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr>    |
+| Power Apps                        | <https://github.com/MicrosoftDocs/powerapps-docs-pr>                   |
+| Power Platform                   | <https://github.com/MicrosoftDocs/power-platform-pr>                   |
+| Power Platform Release Plans     | <https://github.com/MicrosoftDocs/powerplatform-releasenotes-pr>    |
 
 > [!NOTE]
 > This list contains the most used GitHub repos. For a complete list of the repos managed by the BACX CE team, see [Repos managed by BACX Content Engineering](crmce-repos.md)
