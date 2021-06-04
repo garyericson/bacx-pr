@@ -23,15 +23,15 @@ Release plans provide details to customers (and potential customers) about new f
 
 Currently, we only deal with release plans about new features, products, and capabilities within Dynamics 365 and Microsoft Power Platform. These release plans are regularly updated and published to [docs.microsoft.com](https://docs.microsoft.com/dynamics365/release-plans/) as both web content and a PDF.
 
-Below are links to the current release plans:
+Below are links to the active release plans:
 
 **Dynamics 365: 2021 release wave 1 plan**  
-- Release planner app 
+- [Release planner app](https://successhub.crm.dynamics.com/main.aspx?appid=0fe9f79a-a1f6-4064-af95-ded6c5e7bd5c&pagetype=entitylist&etn=rn_releasenote&viewid=bcd691ac-b3f6-ea11-a815-000d3a579c34&viewType=1039) 
 - [GitHub repo](https://github.com/MicrosoftDocs/dynamics365-2021w1-releaseplan-pr)
 - [Docs](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/)
 
 **Microsoft Power Platform: 2021 release wave 1 plan** 
-- Release planner app
+- [Release planner app](https://successhub.crm.dynamics.com/main.aspx?appid=0fe9f79a-a1f6-4064-af95-ded6c5e7bd5c&pagetype=entitylist&etn=rn_releasenote&viewid=d40948f2-4654-eb11-a812-000d3a8d5fda&viewType=1039)
 - [GitHub repo](https://github.com/MicrosoftDocs/powerplatform-2021w1-releaseplan-pr)
 - [Docs](https://docs.microsoft.com/power-platform-release-plan/2021wave1/)
 
