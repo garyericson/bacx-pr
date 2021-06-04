@@ -35,4 +35,4 @@ Use the following guidelines when including **See also** links:
 
 Below is an example of a strong See also section. Click the image to go to the release plan.
 
-[![Example of See also](release-plans/content-dev/media/see-also.png "Example of See also")](https://docs.microsoft.com/power-platform-release-plan/2020wave2/power-bi/automated-template-apps-installation-configuration)
+[![Example of See also](media/see-also.png "Example of See also")](https://docs.microsoft.com/power-platform-release-plan/2020wave2/power-bi/automated-template-apps-installation-configuration)
