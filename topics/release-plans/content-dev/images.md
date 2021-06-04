@@ -25,11 +25,11 @@ It's important to consider the following guidelines before you submit your image
 
 Make sure your screenshots, graphics, and images are clear. If it is blurry for you, it will be worse for the readers when it is published. Also, be sure to use images with clear content if it's meant to be readable. Below is an example of a blurry screenshot:  
 
-![Sample of an unclear screenshot](media/diagram_view_img.jpg "Sample of an unclear screenshot")
+![Sample of an unclear screenshot](release-plans/content-dev/media/diagram_view_img.jpg "Sample of an unclear screenshot")
 
 The screenshot is blurry and it's also unclear what the screenshot is highlighting. Use accessibility-friendly callout boxes, arrows, or highlights to point out the important parts of the screen. The example below shows two screens with boxes added to highlight important areas. The boxes on the left screen cut off text and is not centered properly. The box on the right cleanly and evenly highlight the important area. 
 
-![Dos and don'ts for callouts and highlights](media/calloutdoanddont.png "Dos and don'ts for callouts and highlights")
+![Dos and don'ts for callouts and highlights](release-plans/content-dev/media/calloutdoanddont.png "Dos and don'ts for callouts and highlights")
 
 Here are some other tips to make sure screens are captured cleanly and to avoid last-minute fixes:
 

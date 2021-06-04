@@ -23,7 +23,7 @@ The **L2 overview** gives a top-level description of each subgroup within a main
 
 Below is an example of a strong L2 overview. Click the image to go to the release plan.  
 
-[![Example of an L2 overview](media/L2overview.png "Example of an L2 overview")](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/service/dynamics365-customer-service/knowledge-management)
+[![Example of an L2 overview](release-plans/content-dev/media/L2overview.png "Example of an L2 overview")](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/service/dynamics365-customer-service/knowledge-management)
 
 
 

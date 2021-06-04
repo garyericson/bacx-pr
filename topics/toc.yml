@@ -65,23 +65,23 @@
     - name: Content development
       items:
       - name: Release plans overview
-        href: rn-content-workflow.md
+        href: release-plans/content-dev/rn-content-workflow.md
       - name: Product overview
-        href: product-overview.md
+        href: release-plans/content-dev/product-overview.md
       - name: L2 overview
-        href: L2-overview.md
+        href: release-plans/content-dev/L2-overview.md
       - name: Feature name
-        href: feature-name.md
+        href: release-plans/content-dev/feature-name.md
       - name: Metadata
-        href: metadata.md
+        href: release-plans/content-dev/metadata.md
       - name: Business value
-        href: business-value.md
+        href: release-plans/content-dev/business-value.md
       - name: Feature detail 
-        href: feature-detail.md
+        href: release-plans/content-dev/feature-detail.md
       - name: See also
-        href: see-also.md
+        href: release-plans/content-dev/see-also.md
       - name: Images
-        href: images.md
+        href: release-plans/content-dev/images.md
     - name: "Contributor's form"
       items: 
     - name: "CX owner's form"
