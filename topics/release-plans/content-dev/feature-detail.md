@@ -31,6 +31,6 @@ Use the following guidelines when writing the **Feature detail**:
 
 Below is an example of a strong Feature detail. Click the image to go to the release plan.  
 
-[![Example of a Feature detail](release-plans/content-dev/media/featuredetail.png "Example of a Feature detail")](https://docs.microsoft.com/power-platform-release-plan/2021wave1/data-integration/sap-erp-connector-power-automate-power-apps)
+[![Example of a Feature detail](media/featuredetail.png "Example of a Feature detail")](https://docs.microsoft.com/power-platform-release-plan/2021wave1/data-integration/sap-erp-connector-power-automate-power-apps)
 
 
