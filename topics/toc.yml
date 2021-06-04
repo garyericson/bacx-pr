@@ -43,7 +43,7 @@
   - name: Release plans guide
     items:
     - name: Production schedule
-      href: rn-production-schedule.md
+      href: release-plans/rn-production-schedule.md
     - name: "What's new in the release planner app"
       items: 
       - name: 2021 Q4
@@ -65,7 +65,7 @@
     - name: Content development
       items:
       - name: Release plans overview
-        href: release-plans/content-dev/rn-content-workflow.md
+        href: rn-content-workflow.md
       - name: Product overview
         href: release-plans/content-dev/product-overview.md
       - name: L2 overview
