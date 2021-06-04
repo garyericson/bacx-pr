@@ -18,25 +18,18 @@ You'll find information about roles, their responsibilities and areas, and impor
 | Contributor | TBD | 
 | Editor | TBD |
 
-## CX owners
-
-| Name | Area/Products | Contact | Notes |
-| -- | -- | -- | -- |
-| TBD | TBD | TBD | TBD |
-| TBD | TBD | TBD | TBD |
-
 ## Contributors
 
-| Name | Area/Products | Contact | Notes |
-| -- | -- | -- | -- |
-| TBD | TBD | TBD | TBD |
-| TBD | TBD | TBD | TBD |
+| Name | Area/Products | Contact | Time zone/Region | Notes |
+| -- | -- | -- | -- | -- |
+| TBD | TBD | TBD | TBD | TBD |
+| TBD | TBD | TBD | TBD | TBD |
 
 ## Editors
 
-| Name | Area/Products | Contact | Notes |
-| -- | -- | -- | -- |
-| Ashley Woodruff | Microsoft Power Platform | TBD | Vendor |
-| Laurie Dunham | Dynamics 365 | TBD | Vendor |
+| Name | Area/Products | Contact | Time zone/Region | Notes |
+| -- | -- | -- | -- | -- |
+| Ashley Woodruff | Microsoft Power Platform | TBD | Central (US) | Vendor |
+| Laurie Dunham | Dynamics 365 | TBD | Pacific (US) | Vendor |
 
 
