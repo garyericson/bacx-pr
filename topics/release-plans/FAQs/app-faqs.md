@@ -27,7 +27,7 @@ With this, the release plan will be moved from the current release and properly 
 ## How do I check to see what's changed in a feature entry?
 In the entry, to go the **Related** tab. A short dropdown should appear, and select **Audit History** to show you the history of the feature. 
 
-![Screen of Audit History](release-plans/FAQs/media/audithistory.png "Screen of Audit History")
+![Screen of Audit History](media/audithistory.png "Screen of Audit History")
 
 ## What do I do about the dates in the release plans if a feature is being released in different regions in a phased manner? 
 Before a feature ships, use the month and year the feature is planned to ship. **Example: April 2019**

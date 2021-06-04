@@ -27,11 +27,11 @@ Use the following guidelines when writing metadata:
 * **Do not** just repeat the feature name.
 * Imagine what this will look like in a search result. Notice how the content is cut off in the image below.
 
-![Example of search engine preview](release-plans/content-dev/media/metadataSEO.png "Example of search engine preview")
+![Example of search engine preview](media/metadataSEO.png "Example of search engine preview")
 
 Below is an example of strong metadata. In GitHub, the metadata populates in the *description* line. 
 
-![Example of metadata populated in GitHub](release-plans/content-dev/media/metadatasample.png "Example of metadata populated in GitHub")
+![Example of metadata populated in GitHub](media/metadatasample.png "Example of metadata populated in GitHub")
 
 
 
