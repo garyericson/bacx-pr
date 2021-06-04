@@ -10,7 +10,7 @@ manager: "renwe"
 
 # Production schedule
 
-The Release plans are regularly updated and published to [docs.microsoft.com](https://docs.microsoft.com/business-applications-release-notes/). 
+The release plans are regularly updated and published to [docs.microsoft.com](https://docs.microsoft.com/dynamics365/release-plans/). 
 
 The production schedule can be found [here](https://msit.powerbi.com/groups/fce55d85-50c2-4249-b054-60f8643ad13f/reports/0eb6f27b-2d3a-447d-9a6a-cf77f35bfbcd/ReportSection31aec9950d0006de8110).
 
@@ -28,11 +28,11 @@ If the issue is deemed critical, the following people will be notified: PM, Doc 
 We have two possible solutions: 
 
 1. **If the information is critical to the marketing moment or announcement and must be released in conjunction with an event**, then the PM or Ramana must set up a meeting with the Doc Owner, Ramana, Erica, Renee, and Ann to discuss the impacts of missing that content and who is responsible for what part of that process. If a meeting is not possible, the PM or Ramana will start mail to discuss the options.
-	- We (the Cpub team, Doc Writer, PM, and Ramana) will first determine if the date has to slip or if there is time to do the 		work. _The date slipping is always an option._
-  	- We will set up a plan to get the missing information into the release plans per agreed timelines. This plan will be documented 	in the Bahnhof OneNote and shared with those working on the content.  
+	- We (the Cpub team, Doc Writer, PM, and Ramana) will first determine if the date has to slip or if there is time to do the work. _The date slipping is always an option._
+  	- We will set up a plan to get the missing information into the release plans per agreed timelines. This plan will be documented in the Bahnhof OneNote and shared with those working on the content.  
 	- BACX Editors update GitHub. 
 	- Ramana/PM will pull a PR for the fixes that need to be updated. The editors/Erica will handle it from there. 
-	- Ramana/PM will update the tool with the missing information. We will want confirmation that this is complete so we can check 		that the sync works in the following publish. 
+	- Ramana/PM will update the tool with the missing information. We will want confirmation that this is complete so we can check that the sync works in the following publish. 
 	> [!NOTE]
 	> This may not be necessary with the new ticketing system.
 			
