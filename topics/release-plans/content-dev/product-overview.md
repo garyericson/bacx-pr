@@ -46,4 +46,4 @@ The third paragraph should include related links to our Docs and Learn for the p
 
 Below is an example of a strong Product overview. Click the image to go to the release plan.
 
-[![Example of a Product overview](release-plans/content-dev/media/powerbi-overview.png "Example of a product overview")](https://docs.microsoft.com/power-platform-release-plan/2021wave1/power-bi/)
+[![Example of a Product overview](media/powerbi-overview.png "Example of a product overview")](https://docs.microsoft.com/power-platform-release-plan/2021wave1/power-bi/)
