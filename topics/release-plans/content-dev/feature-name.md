@@ -26,11 +26,11 @@ The **Feature name** appears as the **Title**, and it showcases the core aspects
 - Do not include words like "Delete" or "TBD" in feature names as you run the risk of that title being published to live.
 - Do not exceed 55 characters because it can impact Search Engine Optimization (SEO). Long feature names clutter the table of contents and can negatively impact the user experience. Titles are often longer in other languages when translated from English. For example, the image below shows a long feature name in the TOC in both English and German.  
 
-![Example of a long feature name in English and German](release-plans/content-dev/media/longtitle.png "Example of a long feature name in English and German")
+![Example of a long feature name in English and German](media/longtitle.png "Example of a long feature name in English and German")
 
 > [!NOTE] 
 > Editors and writers do not change feature names becaue this impacts the publish and the app. Generally, they will only fix typos or remove invalid characters. Anything updated in the feature name in the app will impact published content as this impacts URLs. The feature name needs to be correct and succinct from the beginning.
 
 Below is an example of a strong Feature name. Click the image to go to the release plan.  
 
-[![Example of a feature name](release-plans/content-dev/media/featurename.png "Example of a feature name")](https://docs.microsoft.com/power-platform-release-plan/2021wave1/power-virtual-agents/add-images-videos-topics)
+[![Example of a feature name](media/featurename.png "Example of a feature name")](https://docs.microsoft.com/power-platform-release-plan/2021wave1/power-virtual-agents/add-images-videos-topics)
