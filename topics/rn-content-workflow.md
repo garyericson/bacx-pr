@@ -39,12 +39,12 @@ These release plans and PDFs are archived and will no longer be updated.
 
 | Field | Description | Audience |
 | ----- | ----- | -----|
-| [Product overview](product-overview.md) | A top-level description of each product that showcases the best parts of a product and new features | Business decision makers, Technical roles |
-| [L2 overview](L2-overview.md) | A top-level description of each subgroup within a main product | Business decision makers |
-| [Feature name](feature-name.md) | Showcases the core aspects of a feature quickly, clearly, and concisely | Business decision makers, Technical roles |
-| [Metadata](metadata.md) | "Hidden" content that helps users find topics through search engines | Business decision makers, Technical roles |
-| [Business value](business-value.md) | Outlines the benefits and added values that each product offers to its customers | Business decision makers |
-| [Feature detail](feature-detail.md) | A description of the technical aspects of a feature, focusing on the most important details | Business decision makers, Technical roles | 
+| [Product overview](release-plans/content-dev/product-overview.md) | A top-level description of each product that showcases the best parts of a product and new features | Business decision makers, Technical roles |
+| [L2 overview](release-plans/content-dev/L2-overview.md) | A top-level description of each subgroup within a main product | Business decision makers |
+| [Feature name](release-plans/content-dev/feature-name.md) | Showcases the core aspects of a feature quickly, clearly, and concisely | Business decision makers, Technical roles |
+| [Metadata](release-plans/content-dev/metadata.md) | "Hidden" content that helps users find topics through search engines | Business decision makers, Technical roles |
+| [Business value](release-plans/content-dev/business-value.md) | Outlines the benefits and added values that each product offers to its customers | Business decision makers |
+| [Feature detail](release-plans/content-dev/feature-detail.md) | A description of the technical aspects of a feature, focusing on the most important details | Business decision makers, Technical roles | 
 
 
 ## Release plans workflow
