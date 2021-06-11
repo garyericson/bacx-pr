@@ -1,6 +1,6 @@
 ---
 title: Technical videos
-ms.date: 03/25/2021
+ms.date: 06/11/2021
 ms.service: 
 ms.topic: conceptual
 author: ReneeW-CPub
@@ -49,3 +49,11 @@ Here are some common things that cause redos:
 - Use of non-approved demo data (fictitious content)
 - Mouse movements that distract on screen
 - Flow of video and use of transitional graphics/images - don't talk about the new thing while still on the old screen
+
+### Embed a video in docs
+
+You can embed a video in your docs article by using the following markdown syntax:
+
+```markdown
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/{ID}]
+```
