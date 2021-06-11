@@ -50,7 +50,7 @@ Here are some common things that cause redos:
 - Mouse movements that distract on screen
 - Flow of video and use of transitional graphics/images - don't talk about the new thing while still on the old screen
 
-### Embed a video in docs
+## Embed a video in docs
 
 You can embed a video in your docs article by using the following markdown syntax:
 
