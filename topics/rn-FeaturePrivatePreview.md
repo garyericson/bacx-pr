@@ -25,6 +25,6 @@ For existing release plans, the private preview option only appears if the Publi
 
 To enable ‘Private Preview’ option for your products, please email rntoolfeedback@microsoft.com  
 
-![Step one](media/Capture1.PNG "Step one")
+![Step one](media/PrivatePreview1.png "Step one")
 
-![Step two](media/Image_2.png "Step two")
+
