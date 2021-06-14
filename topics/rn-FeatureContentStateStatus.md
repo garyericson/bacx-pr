@@ -44,6 +44,7 @@ Yes, the system will prompt to confirm if the content is ready for the CX owner 
 
 
 **Scenario 2: CX owner reviews the release plans**
+
 When the CX owner reviews the release plan, they will be presented with two options under the Content state. 
 
   - PM revision required – This state is selected when the CX owner determines that more information is required by the PMs. An automated email notification will be sent to the PMs requesting for more information.  
@@ -54,7 +55,7 @@ Note: - When the content state is in “PM writing in progress” or “PM revis
 
 The process flow is graphically presented in this diagram:  
 
-![Step four](media/Content State workflow.pdf "Step four")
+![Step four](media/ContentState4.png "Step four")
 
 
 
