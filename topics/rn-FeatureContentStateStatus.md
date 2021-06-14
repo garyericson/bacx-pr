@@ -55,7 +55,7 @@ Note: - When the content state is in “PM writing in progress” or “PM revis
 
 The process flow is graphically presented in this diagram:  
 
-![Step four](media/ContentState4.png "Step four")
+![Step four](media/Contentstate4.png "Step four")
 
 
 
