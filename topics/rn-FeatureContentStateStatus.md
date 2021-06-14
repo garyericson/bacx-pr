@@ -23,7 +23,7 @@ The ‘Content state’ status improvements are implemented to optimize and deta
 
 By introducing the different content states, we have made the following changes in the Contributors and in the CX owner forms 
 
-  - **Include in Release Plan** toggle is renamed to **Include in Selected Release Wav**. To edit the value, you will have to select the drop down in the header as shown below.  
+  - **Include in Release Plan** toggle is renamed to **Include in Selected Release Wave**. To edit the value, you will have to select the drop down in the header as shown below.  
 
   - Content State is enabled only when “Include in selected release wave” is set to “Yes” and try to save the release plan. Content state field is editable only for the CX owners. 
 
