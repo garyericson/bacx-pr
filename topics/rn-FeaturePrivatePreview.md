@@ -20,7 +20,7 @@ PMs are often requesting to get their capabilities registered for the Insider Pr
 
 The Private Preview option is enabled at the product level in the Release Planner App. Once it is enabled, users will be asked to select whether private preview is required for this feature when creating new plans. Upon selecting “Yes”, users will be presented with additional fields to enter Private Preview Start and End date with Private Preview Status. Business validations are enabled to ensure the Private preview date is always less than the public preview date.  
 
-Note: - Private preview dates are for internal tracking only and will not be published externally. 
+**Note: Private preview dates are for internal tracking only and will not be published externally.** 
 
 For existing release plans, the private preview option only appears if the Public Preview date is in the future or if the release plan has no Public Preview and has GA date in the future.  
 
