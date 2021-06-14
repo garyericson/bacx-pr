@@ -30,7 +30,7 @@ By introducing the different content states, we have made the following changes 
 ![Step one](media/Contentstate1.png "Step one")
 
 
-**Scenario 1: Creating & updating the release Plans **
+**Scenario 1: Creating & updating the release Plans**
 
 Yes, the system will prompt to confirm if the content is ready for the CX owner review. If the “Include in selected release wave” is set to “No”, then the content state is blank.  
 
@@ -53,6 +53,8 @@ When the CX owner reviews the release plan, they will be presented with two opti
 Note: - When the content state is in “PM writing in progress” or “PM revision required”, the CX owner will not be able to update the content state as it is under PM’s purview.  
 
 The process flow is graphically presented in this diagram:  
+
+![Step four](media/Content State workflow.pdf "Step four")
 
 
 
