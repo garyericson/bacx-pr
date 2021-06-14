@@ -62,6 +62,14 @@
             href: rn-ReasonforPublicPreview.md
           - name: Subscribe to a record
             href: rn-Subscribetoarecord.md
+        - name: April 2021
+          items:
+          - name: Feature Private Preview
+            href: rn-FeaturePrivatePreview.md
+          - name: Feature Mini train capturing date and status changes  
+            href: rn-FeatureMiniTrain.md
+          - name: Feature Content state status
+            href: rn-FeatureContentStateStatus.md
     - name: Content development
       items:
       - name: Release plans overview
