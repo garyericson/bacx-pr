@@ -24,7 +24,7 @@ The Private Preview option is enabled at the product level in the Release Planne
 
 For existing release plans, the private preview option only appears if the Public Preview date is in the future or if the release plan has no Public Preview and has GA date in the future.  
 
-To enable ‘Private Preview’ option for your products, please email rntoolfeedback@microsoft.com
+To enable ‘Private Preview’ option for your products, please email [mtoolfeedback@microsoft.com](mailto:mtoolfeedback@microsoft.com)
 
 ![Step one](media/PrivatePreview1.png "Step one")
 
