@@ -42,3 +42,7 @@ Here's an attempt to add the title attribute. Maybe I just don't know how it's d
 This one says `title-text="alt text repeated here"`
 
 :::image type="content" source="media/create-branch-01.png" alt-text="alt text" title-text="alt text repeated here":::
+
+This one has no title-type attributes at all (to rule out other syntax problems):
+
+:::image type="content" source="media/create-branch-01.png" alt-text="alt text":::
