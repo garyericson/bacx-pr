@@ -27,7 +27,7 @@ By introducing the different content states, we have made the following changes 
 
   - Content State is enabled only when “Include in selected release wave” is set to “Yes” and try to save the release plan. Content state field is editable only for the CX owners. 
 
-![Step one](media/Contentstate1new.png "Step one")
+[![Step one](media/Contentstate1new.png "Step one")](media/Contentstate1new.png "Step one")
 
 
 **Scenario 1: Creating & updating the release Plans**
@@ -38,9 +38,9 @@ Yes, the system will prompt to confirm if the content is ready for the CX owner 
 
   - The CX owner will be notified when the Release plans are to “Ready for CX owner review” 
 
-![Step two](media/Contentstate2new.png "Step two")
+[![Step two](media/Contentstate2new.png "Step two")](media/Contentstate2new.png "Step two")
 
-![Step three](media/Contentstate3new.png "Step three")
+[![Step three](media/Contentstate3new.png "Step three")](media/Contentstate3new.png "Step three")
 
 
 **Scenario 2: CX owner reviews the release plans**
