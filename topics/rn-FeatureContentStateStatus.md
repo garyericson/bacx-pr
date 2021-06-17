@@ -27,7 +27,7 @@ By introducing the different content states, we have made the following changes 
 
   - Content State is enabled only when “Include in selected release wave” is set to “Yes” and try to save the release plan. Content state field is editable only for the CX owners. 
 
-![Step one](media/Contentstate1new.png "Step one")
+![Step one](media/Contentstate1 new.png "Step one")
 
 
 **Scenario 1: Creating & updating the release Plans**
