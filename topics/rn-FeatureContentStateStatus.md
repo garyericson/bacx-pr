@@ -40,7 +40,7 @@ Yes, the system will prompt to confirm if the content is ready for the CX owner 
 
 ![Step two](media/Contentstate2new.png "Step two")
 
-![Step three](media/Contentstate3.png "Step three")
+![Step three](media/Contentstate3new.png "Step three")
 
 
 **Scenario 2: CX owner reviews the release plans**
