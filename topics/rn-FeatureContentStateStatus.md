@@ -43,6 +43,9 @@ Yes, the system will prompt to confirm if the content is ready for the CX owner 
 ![Step three](media/Contentstate3new.png "Step three")
 
 
+[![Step three](media/Contentstate3new.png "Step three")](media/Contentstate3new.png "Step three")
+
+
 **Scenario 2: CX owner reviews the release plans**
 
 When the CX owner reviews the release plan, they will be presented with two options under the Content state. 
