@@ -55,7 +55,7 @@ When the CX owner reviews the release plan, they will be presented with two opti
 
 The process flow is graphically presented in this diagram:  
 
-![Step four](media/Contentstate4.png "Step four")
+![Step four](media/Contentstate4new.png "Step four")
 
 
 
