@@ -38,7 +38,7 @@ Yes, the system will prompt to confirm if the content is ready for the CX owner 
 
   - The CX owner will be notified when the Release plans are to “Ready for CX owner review” 
 
-![Step two](media/Contentstate2.png "Step two")
+![Step two](media/Contentstate2new.png "Step two")
 
 ![Step three](media/Contentstate3.png "Step three")
 
