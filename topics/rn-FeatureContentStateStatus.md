@@ -37,7 +37,6 @@ Yes, the system will prompt to confirm if the content is ready for the CX owner 
   - When the PM sets “Yes” to the prompt, the content state will be set as “Ready for CX owner review” and if not, it will be set as “PM writing in Progress” state.  
 
   - The CX owner will be notified when the Release plans are to “Ready for CX owner review” 
-  
 
 [![Step two](media/Contentstate2new.png "Step two")](media/Contentstate2new.png "Step two")
 
