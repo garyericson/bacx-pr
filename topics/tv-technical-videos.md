@@ -53,6 +53,7 @@ Here are some common things that cause redos:
 ## Embed a video in docs
 
 After your video is uploaded to RedTiger, you get a link to your video on RedTiger. For example: https://www.microsoft.com/videoplayer/embed/{ID}.
+Please note due to accessibility issues, we embed only RedTiger links. We do not embed YouTube links. 
 
 You can embed the video in your docs article by using the following markdown syntax:
 
