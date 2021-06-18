@@ -1,5 +1,5 @@
 ---
-title: "Feature: Holdback plans"
+title: "Feature: Private Preview"
 ms.date: 06/14/2021
 ms.service: 
 ms.topic: "conceptual"
@@ -26,6 +26,6 @@ For existing release plans, the private preview option only appears if the Publi
 
 To enable ‘Private Preview’ option for your products, please email [mtoolfeedback@microsoft.com](mailto:mtoolfeedback@microsoft.com)
 
-[![Step one](media/PrivatePreview1.png "Step one")](media/PrivatePreview1.png "Step one")
+![Step one](media/PrivatePreview1.png "Step one")
 
 
