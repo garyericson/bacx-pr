@@ -1,5 +1,5 @@
 ---
-title: "Feature: Holdback plans"
+title: "Feature: Content State Status"
 ms.date: 06/14/2021
 ms.service: 
 ms.topic: "conceptual"
@@ -57,5 +57,8 @@ When the CX owner reviews the release plan, they will be presented with two opti
 The process flow is graphically presented in this diagram:  
 
 [![Step four](media/Contentstate4new.png "Step four")](media/Contentstate4new.png "Step four")
+
+
+> [!VIDEO <https://msit.microsoftstream.com/video/e8e80840-98dc-869c-daf8-f1ebcfd2edae>]
 
 
