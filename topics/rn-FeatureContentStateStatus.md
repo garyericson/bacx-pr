@@ -59,6 +59,9 @@ The process flow is graphically presented in this diagram:
 [![Step four](media/Contentstate4new.png "Step four")](media/Contentstate4new.png "Step four")
 
 
+The demo presented in this video:
+
+
 > [!VIDEO https://msit.microsoftstream.com/embed/video/e8e80840-98dc-869c-daf8-f1ebcfd2edae?autoplay=false&showinfo=true]
 
 
