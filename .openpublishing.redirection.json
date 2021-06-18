@@ -1,0 +1,84 @@
+{
+  "redirections": [
+    {
+      "source_path": "topics/rn-guide.md",
+      "redirect_url": "release-plans/rn-guide",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/rn-production-schedule.md",
+      "redirect_url": "release-plans/rn-production-schedule",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/roles-responsibilities.md",
+      "redirect_url": "release-plans/roles-responsibilities",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/business-value.md",
+      "redirect_url": "release-plans/content-dev/business-value",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/feature-detail.md",
+      "redirect_url": "release-plans/content-dev/feature-detail",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/feature-name.md",
+      "redirect_url": "release-plans/content-dev/feature-name",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/images.md",
+      "redirect_url": "release-plans/content-dev/images",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/L2-overview.md",
+      "redirect_url": "release-plans/content-dev/L2-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/metadata.md",
+      "redirect_url": "release-plans/content-dev/metadata",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/product-overview.md",
+      "redirect_url": "release-plans/content-dev/product-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/rn-content-workflow.md",
+      "redirect_url": "release-plans/content-dev/rn-content-workflow",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/see-also.md",
+      "redirect_url": "release-plans/content-dev/see-also",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/app-faqs.md",
+      "redirect_url": "release-plans/FAQs/app-faqs",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/faqs-overview.md",
+      "redirect_url": "release-plans/FAQs/faqs-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/late-submissions.md",
+      "redirect_url": "release-plans/FAQs/late-submissions",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "topics/regular-trains.md",
+      "redirect_url": "release-plans/FAQs/regular-trains",
+      "redirect_document_id": "false"
+    }
+  ]
+}

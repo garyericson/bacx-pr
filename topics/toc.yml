@@ -73,7 +73,7 @@
     - name: Content development
       items:
       - name: Release plans overview
-        href: rn-content-workflow.md
+        href: release-plans/content-dev/rn-content-workflow.md
       - name: Product overview
         href: release-plans/content-dev/product-overview.md
       - name: L2 overview
