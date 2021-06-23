@@ -53,6 +53,7 @@ When the CX owner reviews the release plan, they will be presented with two opti
   - **Review completed** – This state is selected when the CX owner review is completed. The content gets picked up for publishing according to the content schedule.  
 
 **NOTE: When the content state is in “PM writing in progress” or “PM revision required”, the CX owner will not be able to update the content state as it is under PM’s preview.**  
+
 **NOTE: Any saved personal views should be updated by the user to use the new “Content state” values in order to view  the right set of data.**
 
 The process flow is graphically presented in this diagram:  
