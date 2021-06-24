@@ -51,7 +51,7 @@ These release plans and PDFs are archived and will no longer be updated.
 
 There are many working parts to publishing release plans to docs.microsoft.com. It is important to know how each step and role impact the overall process. The graphic below shows each step of the process:  
 
-![Workflow](release-plans/content-dev/media/workflow.png "Workflow")
+![Workflow](media/workflow.png "Workflow")
 
 The content is created in the release planner app, and a flow pushes the content to GitHub as pull requests (PRs). The flow pushes edited content back into the release app. This is called the "reverse sync" as shown in the graphic below:  
 
