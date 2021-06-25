@@ -50,6 +50,32 @@ Here are some common things that cause redos:
 - Mouse movements that distract on screen
 - Flow of video and use of transitional graphics/images - don't talk about the new thing while still on the old screen
 
+## Upload a video
+
+PMs, Once you have created your video, you can upload it to RedTiger (Microsoft'video hosting platform) and/or to the offcial product's YouTube channel by using the intake form at <https://badeintake.azurewebsites.net/>
+
+### File requirements 
+
+You need to provide these 4 files for publishing on both platforms (YouTube and Red Tiger). 
+
+- Video file in .MP4 format. 
+- Caption file in .SRT format. 
+- Caption file in .TTML format. 
+- Audio description file in .MP3 format. 
+
+> [!NOTE] 
+> If you want to [embed videos in a docs article](#embed-a-video-in-docs), it must be uploaded to RedTiger.
+
+**For publishing only on YouTube** 
+
+- Video file in .MP4 format. 
+- Caption file in .SRT format. 
+
+**For publishing only on RedTiger**  
+- Video file in .MP4 format. 
+- Caption file in .TTML format. 
+- Audio description file in .MP3 format. 
+
 ## Embed a video in docs
 
 After your video is uploaded to RedTiger, you get a link to your video on RedTiger. For example: https://www.microsoft.com/videoplayer/embed/{ID}.
