@@ -93,7 +93,7 @@ You need to submit an intake form here: <https://badeintake.azurewebsites.net/>;
 ![Upload video](media/upload-video.png)
 
 > [!NOTE]
-> Contact Abhinav Dhankar if you have an questions.
+> Contact Abhinav Dhankar if you have any questions.
 
 ## Embed a video in docs
 
