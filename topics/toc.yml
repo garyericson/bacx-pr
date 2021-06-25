@@ -1,0 +1,130 @@
+- name: Business Applications Content Experience Team
+  items:
+  - name: Contributors guide for Docs
+    items:
+    - name: Contributors guide for PMs/Devs
+      href: contributors-guide.md
+    - name: Get started
+      href: get-started.md
+    - name: Work directly in our repos
+      items:
+      - name: Overview
+        href: work-repos.md
+      - name: Make quick edits to a topic
+        href: make-quick-edits.md
+      - name: Make extensive changes
+        href: make-extensive-changes.md
+      - name: Make major or long-running changes
+        href: make-major-changes.md
+      - name: View doc builds for your changes
+        href: view-doc-builds.md
+      - name: Request a manual doc build
+        href: request-doc-build.md
+      - name: Delete topics
+        href: delete-rename.md
+    - name: Requirements for creating links
+      href: linking.md
+    - name: Public repo pull-requests
+      href: public-pr-contribution-guide.md
+    - name: "Legacy: Fork our repo"
+      href: legacy-fork-repo.md
+  - name: GitHub guide
+    items:
+    - name: Review links
+      href: review-links.md
+    - name: Permission levels
+      href: permission-levels.md
+    - name: Repos managed by crmce
+      href: crmce-repos.md
+    - name: Cheat sheet
+      href: gh-cheat-sheet.md
+    - name: FAQs
+      href: GitHub-FAQ.md
+  - name: Release plans guide
+    items:
+    - name: Production schedule
+      href: release-plans/rn-production-schedule.md
+    - name: "What's new in the release planner app"
+      items: 
+      - name: 2021 Q4
+        items:
+        - name: April 2021
+          items:
+          - name: Feature Holdback plans
+            href: rn-FeatureHoldbackplans.md
+          - name: Feature Cooling period
+            href: rn-Featurecoolingperiod.md
+          - name: Feature Public Preview exception
+            href: rn-Featurepreviewexception.md
+          - name: Additional Capabilities
+            href: rn-Additionalcapabilities.md
+          - name: Reason for Public Preview when set to blank or NA
+            href: rn-ReasonforPublicPreview.md
+          - name: Subscribe to a record
+            href: rn-Subscribetoarecord.md
+        - name: July 2021
+          items:
+          - name: Feature Private Preview
+            href: rn-FeaturePrivatePreview.md
+          - name: Feature Mini train capturing date and status changes  
+            href: rn-FeatureMiniTrain.md
+          - name: Feature Content state status
+            href: rn-FeatureContentStateStatus.md
+    - name: Content development
+      items:
+      - name: Release plans overview
+        href: release-plans/content-dev/rn-content-workflow.md
+      - name: Product overview
+        href: release-plans/content-dev/product-overview.md
+      - name: L2 overview
+        href: release-plans/content-dev/L2-overview.md
+      - name: Feature name
+        href: release-plans/content-dev/feature-name.md
+      - name: Metadata
+        href: release-plans/content-dev/metadata.md
+      - name: Business value
+        href: release-plans/content-dev/business-value.md
+      - name: Feature detail 
+        href: release-plans/content-dev/feature-detail.md
+      - name: See also
+        href: release-plans/content-dev/see-also.md
+      - name: Images
+        href: release-plans/content-dev/images.md
+    - name: "Contributor's form"
+      items: 
+    - name: "CX owner's form"
+      items: 
+  - name: Style guide
+    items:
+    - name: "SEO: Tips for writing H1s"
+      href: write-a-heading-1.md
+    - name: "SEO: Write good meta descriptions"
+      href: write-good-descriptions.md
+    - name: "SEO: Tips for writing titles"
+      href: write-titles.md
+    - name: Update the msdate metadata
+      href: msdate.md
+    - name: Fictitious names and addresses
+      href: fictitious-names.md
+    - name: Legal document publishing
+      href: legaldocs.md
+    - name: Release plans style best practices
+      href: style-tips.md
+  - name: Editor's guide
+    items:
+    - name: Overview
+      href: editor-guide.md
+    - name: Types of edits
+      href: types-of-edits.md
+    - name: Editing blogs
+      href: editing-blogs.md
+    - name: Editing queue
+      href: editing-queue.md
+  - name: Technical videos
+    items:
+    - name: Technical videos
+      href: tv-technical-videos.md
+    - name: Sample scripts
+      href: tv-sample-scripts.md
+  - name: Content Engineering requests
+    href: content-engineering-requests.md

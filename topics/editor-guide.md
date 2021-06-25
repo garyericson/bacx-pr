@@ -1,4 +1,18 @@
-# Doc set assignments
+---
+title: "Editor's guide"
+ms.date: 11/05/2019
+ms.service: 
+ms.topic: "conceptual"
+author: "emceachern"
+ms.author: "emcheachern"
+manager: "renwe"
+---
+
+# Editor's guide
+
+Here you will find helpful information for editors.
+
+## Doc set assignments
 
 Here are the editorial ownership areas for our BACX doc sets and projects. 
 
@@ -6,16 +20,16 @@ To request editing, use the process you currently use. Tonya and Renee will tria
 
 To ask questions when you can’t find what you need, contact one of these aliases or team members: 
 
-**Aliases**: 
+### Aliases 
 
 BACX CE Editors: [crmed](mailto:crmed@microsoft.com?subject=Style) 
 
 Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com) 
 
-**Editing contacts for specific doc sets/projects**
+### Editing contacts for specific doc sets/projects
 
-| Doc set/project                                                  | Dev editor   | Copy editor  | DTP    | Notes  |
-|----------------------------------------------------------------------|----------------|----------------------|----------------|-------|
+| Doc set/project    | Dev editor   | Copy editor  | DTP    | Notes  |
+|-------------------------------------------------------|----------------|----------------------|----------------|-------|
 | F&O | Tonya, Chris | Marge| Chris | Includes task guides. |
 | CE | Renee, Laurie | Marge| N/A |  |
 | BC | Resource needed | Marge| No resource |  |
@@ -23,9 +37,9 @@ Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com)
 | Talent | Tonya, Chris | Marge| Chris |  |
 | Rushmore | Tony | Tony| N/A |  |
 | PSA | Tonya, Chris | Marge| N/A |  |
-| PowerApps | Renee, Laurie | Marge| N/A |  |
-| PowerBI | Renee, Laurie | Marge| N/A |  |
-| Flow | Renee, Laurie | Marge| N/A |  |
+| Power Apps | Renee, Laurie | Marge| N/A |  |
+| Power BI | Renee, Laurie | Marge| N/A |  |
+| Power Automate | Renee, Laurie | Marge| N/A |  |
 | Release Notes | Renee, Laurie | Laurie| Laurie |  |
 | MS Learn | Julie, Chris | Julie| Margo |  |
 | Learning paths | Renee, Chris | Marge| N/A |  |
@@ -35,11 +49,11 @@ Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com)
 When you are ready for your content to be edited, log a new request through your team’s current method:
 
 | Team                             | Method of Request                     |
-| --------------------- | ----------------------- | ----- |
+| --------------------- | ----------------------- |
 | F&O, Talent, Retail     | [Fin & Ops tasks](https://msdyneng.visualstudio.com/FinOps)  |
 | Triple Crown                              | [Triple Crown tasks](https://dev.azure.com/mseng)   |
-| Customer Engagement, Power Apps, Flow, Power Platform | [Editing Task Request](https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub/_workitems/create/Task?templateId=0a8b7ccd-108e-46fd-aa5d-102ab279256a&ownerId=74778d57-e6a1-43fe-b56b-be19cb488aae)      |
-|                                                       |Query: [CE Editing query](https://dynamicscrm.visualstudio.com/OneCRM/_queries?tempQueryId=3be7b6a8-f759-47fd-ac30-077507d8843d)
+| AI Builder, Customer Engagement, Data Integration, Power Apps, Power Automate, Power Platform | [Editing Task Request](https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub/_workitems/create/Task?templateId=0a8b7ccd-108e-46fd-aa5d-102ab279256a&ownerId=74778d57-e6a1-43fe-b56b-be19cb488aae)      |
+|Query:                                                       | [CE Editing query](https://dynamicscrm.visualstudio.com/OneCRM/_queries?tempQueryId=3be7b6a8-f759-47fd-ac30-077507d8843d)
 
 
 
@@ -55,7 +69,7 @@ Copy editors edit for:
 * Adherence to [Microsoft Writing Style Guide](https://worldready.cloudapp.net/Styleguide/Read?id=2700), [Dynamics 365 Writing Toolkit](https://microsoft.sharepoint.com/teams/DynDoc/AXContentResources/SitePages/Create%20new%20content.aspx), [Cloud Style Guide](https://worldready.cloudapp.net/StyleGuide/Read?id=2696), and (coming soon) Dynamics 365 Style Guide.
 * Correct formatting of text elements. Follow guidelines in the [BACX contributors guide](https://review.docs.microsoft.com/en-us/bacx/contributors-guide?branch=master). 
 * Appropriate terminology and word choice. Style guide word lists and Term Studio are resources for this.
-* Compliance with Microsoft legal standards, such as use of fictitious names, product names, and trademarking. The [CELA website](https://microsoft.sharepoint.com/sites/lcaweb/home) is a resource for this. 
+* Compliance with Microsoft legal standards, such as use of fictitious names, product names, and trademarking. The [CELA website](https://microsoft.sharepoint.com/sites/lcaweb/home) is a resource for this. Also see [Fictitious names](fictitious-names.md). 
 * Basic readability. If a sentence is not understandable, flag it for the CP person to revise (for example, noun stacks). Please note where there is “word salad”. But you don’t need to question whether tech terms are correct. 
 
 ### Dev edits
@@ -87,4 +101,3 @@ Dev editors edit for:
 | MS Learn | Dev edit | Julie, Chris |     |
 | Learning paths | Dev edit | Renee, Laurie, Chris  |      |
 | Video scripts | Dev edit| Tonya, Renee  |        |
-
