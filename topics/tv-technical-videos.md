@@ -99,10 +99,11 @@ You need to submit an intake form here: <https://badeintake.azurewebsites.net/>;
 
 After your video is uploaded to RedTiger, you get a link to your video on RedTiger. For example: https://www.microsoft.com/videoplayer/embed/{ID}.
 
-Please note due to accessibility issues, we embed only RedTiger links. We do not embed YouTube links.
-
 You can embed the video in your docs article by using the following markdown syntax:
 
 ```markdown
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/{ID}]
 ```
+
+> [!NOTE]
+> Due to accessibility issues, we embed only RedTiger links. We don't embed YouTube links.
