@@ -1,6 +1,6 @@
 ---
 title: Technical videos
-ms.date: 06/11/2021
+ms.date: 06/25/2021
 ms.service: 
 ms.topic: conceptual
 author: ReneeW-CPub
