@@ -52,7 +52,7 @@ Here are some common things that cause redos:
 
 ## Upload a video
 
-PMs, Once you have created your video, you can upload it to RedTiger (Microsoft'video hosting platform) and/or to the offcial product's YouTube channel by using the intake form at <https://badeintake.azurewebsites.net/>
+PMs: After you have created your video, you can upload it to RedTiger (Microsoft'video hosting platform) and/or to the offcial product's YouTube channel by using the intake form at <https://badeintake.azurewebsites.net/>
 
 ### File requirements 
 
