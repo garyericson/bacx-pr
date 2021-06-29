@@ -22,6 +22,7 @@ The metadata is "hidden" content that helps users find topics through search eng
 Use the following guidelines when writing metadata:
 
 * Describe the feature in a brief but impactful way.
+* Minimum 100, max 160 characters including spaces.
 * Use full sentences, not just a list of keywords.
 * Include important words that aren't in the description or title. What would your audience type into a search engine to look for this feature?
 * **Do not** just repeat the feature name.
