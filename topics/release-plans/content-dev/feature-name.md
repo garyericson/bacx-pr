@@ -24,6 +24,7 @@ The **Feature name** appears as the **Title**, and it showcases the core aspects
 - Lead with a verb.
 - Describe briefly what a user can do.
 - Do not include words like "Delete" or "TBD" in feature names as you run the risk of that title being published to live.
+- Do not include the status of the feature. GA, PP, and EA statuses are tracked in the table in the feature. Having the status in the name requires renaming the feature if the status changes, which introduces risks like broken links or conflicting information.
 - Do not exceed 55 characters because it can impact Search Engine Optimization (SEO). Long feature names clutter the table of contents and can negatively impact the user experience. Titles are often longer in other languages when translated from English. For example, the image below shows a long feature name in the TOC in both English and German.  
 
 ![Example of a long feature name in English and German](media/longtitle.png "Example of a long feature name in English and German")
