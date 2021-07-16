@@ -69,13 +69,7 @@ Tracking notes: Marina Hogan-Maguire approved them 7/15/2021.
 
 | **First name** | **Last name** | **Full name**    |
 |----------------|---------------|------------------|
-| Omar           | Bennett       | Omar Bennett     |
-| Quincy         | Watson        | Quincy Watson    |
-| Juan           | Morgan        | Juan Morgan      |
 | William        | Beringer      | William Beringer |
-| Markus         | Long          | Markus Long      |
-| Wesley         | Brooks        | Wesley Brooks    |
-| Malik          | Barden        | Malik Barden     |
 | Tomas          | Richardson    | Tomas Richardson |
 | Vance          | DeLeon        | Vance DeLeon     |
 | Mateo          | Gomez         | Mateo Gomez      |
@@ -83,22 +77,10 @@ Tracking notes: Marina Hogan-Maguire approved them 7/15/2021.
 | Anthony        | Ivanov        | Anthony Ivanov   |
 | Preston        | Morales       | Preston Morales  |
 | Graham         | Barnes        | Graham Barnes    |
-| Corey          | Gray          | Corey Gray       |
-| Mario          | Rogers        | Mario Rogers     |
-| Joseph         | Price         | Joseph Price     |
-| Michael        | Peltier       | Michael Peltier  |
-| Christopher    | Reed          | Christopher Reed |
-| Shawn          | Hughes        | Shawn Hughes     |
-| Caleb          | Foster        | Caleb Foster     |
 | Jacob          | Hancock       | Jacob Hancock    |
 | Nathan         | Rigby         | Nathan Rigby     |
 | Henry          | Ross          | Henry Ross       |
-| Gabriel        | Diaz          | Gabriel Diaz     |
-| Eric           | Solomon       | Eric Solomon     |
-| Oscar          | Ward          | Oscar Ward       |
-| Brandon        | Stuart        | Brandon Stuart   |
-| Felix          | Henderson     | Felix Henderson  |
-| Andre          | Lawson        | Andre Lawson     |
+| Michael        | Peltier       | Michael Peltier  |
 
 **Gender neutral names**
 
