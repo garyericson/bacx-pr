@@ -86,34 +86,13 @@ Tracking notes: Marina Hogan-Maguire approved them 7/15/2021.
 
 | **First name** | **Last name** | **Full name**   |
 |----------------|---------------|-----------------|
-| Alex           | Johnson       | Alex Johnson    |
-| Avery          | Howard        | Avery Howard    |
-| Cameron        | Baker         | Cameron Baker   |
-| Adrian         | King          | Adrian King     |
 | Amari          | Rivera        | Amari Rivera    |
-| Kai            | Carter        | Kai Carter      |
-| Dylan          | Williams      | Dylan Williams  |
-| Kendall        | Collins       | Kendall Collins |
-| Kerry          | Allen         | Kerry Allen     |
 | Casey          | Jensen        | Casey Jensen    |
-| Ellis          | Turner        | Ellis Turner    |
 | Logan          | Edwards       | Logan Edwards   |
 | Jessie         | Irwin         | Jessie Irwin    |
-| Parker         | McLean        | Parker McLean   |
-| Sam            | Cantrell      | Sam Centrell    |
-| Hayden         | Cook          | Hayden Cook     |
 | Quinn          | Campbell      | Quinn Campbell  |
-| Morgan         | Connors       | Morgan Connors  |
-| Jamie          | Evans         | Jamie Evans     |
 | Devon          | Torres        | Devon Torres    |
-| Jordan         | Mitchell      | Jordan Mitchell |
 | Remy           | Morris        | Remy Morris     |
-| Robin          | Kline         | Robin Kline     |
-| Reed           | Flores        | Reed Flores     |
-| Rowan          | Murphy        | Rowan Murphy    |
-| Rory           | Nguyen        | Rory Nyuyen     |
-| Riley          | Ramirez       | Riley Ramirez   |
-| Taylor         | Phillips      | Taylor Phillips |
 | Tyler          | Stein         | Tyler Stein     |
 
 ## Contacts 
