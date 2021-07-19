@@ -27,4 +27,4 @@ Use the following guidelines when writing the **Business value**:
 
 Below is an example of a strong Business value. Click the image to go to the release plan.  
 
-[![Example of a business value](media/businessvalue.png "Example of a business value")](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/human-resources/dynamics365-human-resources/benefits-management-workspace)
+[![Example of a business value](media/businessvalue2.png "Example of a business value")](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/human-resources/dynamics365-human-resources/benefits-management-workspace)
