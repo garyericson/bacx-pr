@@ -25,6 +25,6 @@ Use the following guidelines when writing the **Business value**:
 * Be concise, but be precise.
 * Use the present tense. For example, "bots can use" instead of "bots will be able to use."
 
-Below is an example of a strong Business value. Click the image to go to the release plan.  
+<!--Below is an example of a strong Business value. Click the image to go to the release plan. -->  
 
-[![Example of a business value](media/businessvalue.png "Example of a business value")](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-finance/electronic-invoicing-add-on-dynamics-365-ga)
+<!--[![Example of a business value](media/businessvalue.png "Example of a business value")](https://docs.microsoft.com/dynamics365-release-plan/2021wave1/finance-operations/dynamics365-finance/electronic-invoicing-add-on-dynamics-365-ga)-->
