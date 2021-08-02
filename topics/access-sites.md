@@ -25,3 +25,4 @@ Submit requests to view and work in sites you use, such as the following:
   For access to these tools, you need a user manager to submit a request. Your agency might have a user manager who can do this. If not, ask your Microsoft manager to make the request. 
   
   [Vendor access to Global Readiness tools](https://microsoft.sharepoint.com/sites/globalreadiness/KBLibrary/Forms/All%20properties.aspx?id=%2Fsites%2Fglobalreadiness%2FKBLibrary%2F1805%2Epdf&parent=%2Fsites%2Fglobalreadiness%2FKBLibrary) explains how to set up a user manager and how the user manager requests access for individuals.
+  
