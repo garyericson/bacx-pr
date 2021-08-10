@@ -89,15 +89,15 @@ Dev editors edit for:
 
 | Deliverable type                                                 | Edit type  | Editors | Notes  |
 | ---------------------------------------------------------------------- | ---------------- | ---------------------- | ---------------- |
-| New doc sets | Dev edit | Chris, Laurie |  |
-| New white papers| Dev edit| Chris, Laurie |   |
-| Video scripts| Dev edit | Chris, Laurie  |    |
-| Release Notes| Dev edit, copy edit | Laurie |
-| Blogs| Dev edit| Laurie |     |
+| New doc sets | Dev edit | Chris, Nona |  |
+| New white papers| Dev edit| Chris, Nona |   |
+| Video scripts| Dev edit | Chris, Renee  |    |
+| Release plans| Dev edit, copy edit | Laurie, Ashley |
+| Blogs| Dev edit| Renee, Tonya |     |
 | UI and message text | Dev edit | Tonya, Renee  |     |
-| Docs with major updates | Dev edit | Chris, Laurie  |    |
+| Docs with major updates | Dev edit | Chris, Nona  |    |
 | Updated white papers| Copy edit| Marge |   |
 | Docs with minor updates| Copy edit | Marge |     |
 | MS Learn | Dev edit | Julie, Chris |     |
-| Learning paths | Dev edit | Renee, Laurie, Chris  |      |
+| Learning paths | Dev edit | Chris  |      |
 | Video scripts | Dev edit| Tonya, Renee  |        |
