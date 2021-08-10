@@ -15,7 +15,7 @@ The BACX team no longer publishes legal documents for products, services, apps, 
 
 If you are a PM who needs a legal document published, start by filling out 
 this request form:
-[Legal docs publication request](https://msazure.visualstudio.com/One/_workitems/create/Task)
+[Legal docs publication request](https://msazure.visualstudio.com/One/_workitems/create/Task?templateId=27f78c97-f3d9-4468-9e1e-fe7fed207fb8&ownerId=ce88c412-5346-4045-86cb-7adb75ed114a)
 
 If you are a writer or content strategist who is asked how to get a legal document published, also refer the person asking to the request form. 
 
