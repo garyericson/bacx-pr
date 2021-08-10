@@ -31,19 +31,19 @@ Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com)
 | Doc set/project    | Dev editor   | Copy editor  | DTP    | Notes  |
 |-------------------------------------------------------|----------------|----------------------|----------------|-------|
 | F&O | Tonya, Chris | Marge| Chris | Includes task guides. |
-| CE | Renee, Laurie | Marge| N/A |  |
+| CE | Nona | Nona| N/A |  |
 | BC | Resource needed | Marge| No resource |  |
 | Retail | Tonya, Chris | Marge| Chris |  |
 | Talent | Tonya, Chris | Marge| Chris |  |
 | Rushmore | Tony | Tony| N/A |  |
 | PSA | Tonya, Chris | Marge| N/A |  |
-| Power Apps | Renee, Laurie | Marge| N/A |  |
-| Power BI | Renee, Laurie | Marge| N/A |  |
-| Power Automate | Renee, Laurie | Marge| N/A |  |
-| Release Notes | Renee, Laurie | Laurie| Laurie |  |
+| Power Apps | Nona | Nona| N/A |  |
+| Power BI | Nona | Nona| N/A |  |
+| Power Automate | Nona | Nona| N/A |  |
+| Release plans | Laurie, Ashley | Laurie, Ashley| Laurie, Ashley |  |
 | MS Learn | Julie, Chris | Julie| Margo |  |
 | Learning paths | Renee, Chris | Marge| N/A |  |
-| Video scripts | Renee, Laurie | Laurie| N/A |  |
+| Video scripts | Renee | Renee| N/A |  |
 
 ## Request edits
 When you are ready for your content to be edited, log a new request through your team’s current method:
@@ -52,8 +52,8 @@ When you are ready for your content to be edited, log a new request through your
 | --------------------- | ----------------------- |
 | F&O, Talent, Retail     | [Fin & Ops tasks](https://msdyneng.visualstudio.com/FinOps)  |
 | Triple Crown                              | [Triple Crown tasks](https://dev.azure.com/mseng)   |
-| AI Builder, Customer Engagement, Data Integration, Power Apps, Power Automate, Power Platform | [Editing Task Request](https://dynamicscrm.visualstudio.com/OneCRM/CRM.Internal.CPub/_workitems/create/Task?templateId=0a8b7ccd-108e-46fd-aa5d-102ab279256a&ownerId=74778d57-e6a1-43fe-b56b-be19cb488aae)      |
-|Query:                                                       | [CE Editing query](https://dynamicscrm.visualstudio.com/OneCRM/_queries?tempQueryId=3be7b6a8-f759-47fd-ac30-077507d8843d)
+| AI Builder, Customer Engagement, Data Integration, Power Apps, Power Automate, Power Platform | [Editing Task Request](https://dev.azure.com/bacx/content-requests/_queries/query/9e26f80c-3c34-4fe5-8154-2e87a172e3ff) -Choose **Editing task** from the **New** menu.     |
+|Query:                                                       | [CE Editing query](https://dev.azure.com/bacx/content-requests/_queries/query/9e26f80c-3c34-4fe5-8154-2e87a172e3ff)
 
 
 
@@ -89,15 +89,15 @@ Dev editors edit for:
 
 | Deliverable type                                                 | Edit type  | Editors | Notes  |
 | ---------------------------------------------------------------------- | ---------------- | ---------------------- | ---------------- |
-| New doc sets | Dev edit | Chris, Laurie |  |
-| New white papers| Dev edit| Chris, Laurie |   |
-| Video scripts| Dev edit | Chris, Laurie  |    |
-| Release Notes| Dev edit, copy edit | Laurie |
-| Blogs| Dev edit| Laurie |     |
+| New doc sets | Dev edit | Chris, Nona |  |
+| New white papers| Dev edit| Chris, Nona |   |
+| Video scripts| Dev edit | Chris, Renee  |    |
+| Release plans| Dev edit, copy edit | Laurie, Ashley |
+| Blogs| Dev edit| Renee, Tonya |     |
 | UI and message text | Dev edit | Tonya, Renee  |     |
-| Docs with major updates | Dev edit | Chris, Laurie  |    |
+| Docs with major updates | Dev edit | Chris, Nona  |    |
 | Updated white papers| Copy edit| Marge |   |
 | Docs with minor updates| Copy edit | Marge |     |
 | MS Learn | Dev edit | Julie, Chris |     |
-| Learning paths | Dev edit | Renee, Laurie, Chris  |      |
+| Learning paths | Dev edit | Chris  |      |
 | Video scripts | Dev edit| Tonya, Renee  |        |
