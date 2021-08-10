@@ -52,7 +52,7 @@ When you are ready for your content to be edited, log a new request through your
 | --------------------- | ----------------------- |
 | F&O, Talent, Retail     | [Fin & Ops tasks](https://msdyneng.visualstudio.com/FinOps)  |
 | Triple Crown                              | [Triple Crown tasks](https://dev.azure.com/mseng)   |
-| AI Builder, Customer Engagement, Data Integration, Power Apps, Power Automate, Power Platform | [Editing Task Request] (https://dev.azure.com/bacx/content-requests/_queries/query/9e26f80c-3c34-4fe5-8154-2e87a172e3ff) -Choose Editing task from the New menu     |
+| AI Builder, Customer Engagement, Data Integration, Power Apps, Power Automate, Power Platform | [Editing Task Request](https://dev.azure.com/bacx/content-requests/_queries/query/9e26f80c-3c34-4fe5-8154-2e87a172e3ff) -Choose **Editing task** from the **New** menu.     |
 |Query:                                                       | [CE Editing query](https://dev.azure.com/bacx/content-requests/_queries/query/9e26f80c-3c34-4fe5-8154-2e87a172e3ff)
 
 
