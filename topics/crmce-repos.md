@@ -10,6 +10,8 @@ manager: "renwe"
 
 # Repos managed by BACX Content Engineering
 
+This is a test paragraph. The time is 2&#8758;45 PM. Now the time is 3:45 PM.
+
 For a list of repos managed by BACX Content Engineering, see [this page](http://bacx0-web/repos/?type=repos-formatted).
 
 ## Legacy information
