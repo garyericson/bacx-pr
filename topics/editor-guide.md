@@ -28,29 +28,29 @@ Tonya Fehr: [tfehr](mailto:tonya.fehr@microsoft.com)
 
 ### Editing contacts for specific doc sets/projects
 
-| Doc set/project    | Dev editor   | Copy editor  | DTP    | Notes  |
-|-------------------------------------------------------|----------------|----------------------|----------------|-------|
-| F&O | Tonya, Chris | Marge| Chris | Includes task guides. |
-| CE | Nona | Nona| N/A |  |
-| BC | Resource needed | Marge| No resource |  |
-| Retail | Tonya, Chris | Marge| Chris |  |
-| Talent | Tonya, Chris | Marge| Chris |  |
-| Rushmore | Tony | Tony| N/A |  |
-| PSA | Tonya, Chris | Marge| N/A |  |
-| Power Apps | Nona | Nona| N/A |  |
-| Power BI | Nona | Nona| N/A |  |
-| Power Automate | Nona | Nona| N/A |  |
-| Release plans | Laurie, Ashley | Laurie, Ashley| Laurie, Ashley |  |
+| Doc set/project    | Dev editor   | Copy editor  | DTP    | 
+|-------------------------------------------------------|----------------|----------------------|----------------|
+| Finance and Operations apps | Tonya, Chris | Chris | Chris | 
+| CE | Nona | Nona| N/A |  
+| BC | Resource needed | Chris| No resource |  
+| Commerce | Tonya, Chris | Chris| Chris |  
+| HR | Tonya, Chris | Chris| Chris |  
+| Rushmore | Tony | Tony| N/A |  
+| Project Operations | Tonya, Chris | Chris| N/A |  
+| Power Apps | Nona | Nona| N/A |  
+| Power BI | Nona | Nona| N/A |  
+| Power Automate | Nona | Nona| N/A |  
+| Release plans | Laurie, Ashley | Laurie, Ashley| Laurie, Ashley |  
 | MS Learn | Julie, Chris | Julie| Margo |  |
-| Learning paths | Renee, Chris | Marge| N/A |  |
-| Video scripts | Renee | Renee| N/A |  |
+| Learning paths | Renee, Chris | Chris| N/A |  
+| Video scripts | Renee | Renee| N/A |  
 
 ## Request edits
 When you are ready for your content to be edited, log a new request through your team’s current method:
 
 | Team                             | Method of Request                     |
 | --------------------- | ----------------------- |
-| F&O, Talent, Retail     | [Fin & Ops tasks](https://msdyneng.visualstudio.com/FinOps)  |
+| Finance and Operations apps, HR   | [Fin & Ops tasks](https://msdyneng.visualstudio.com/FinOps)  |
 | Triple Crown                              | [Triple Crown tasks](https://dev.azure.com/mseng)   |
 | AI Builder, Customer Engagement, Data Integration, Power Apps, Power Automate, Power Platform | [Editing Task Request](https://dev.azure.com/bacx/content-requests/_queries/query/9e26f80c-3c34-4fe5-8154-2e87a172e3ff) -Choose **Editing task** from the **New** menu.     |
 |Query:                                                       | [CE Editing query](https://dev.azure.com/bacx/content-requests/_queries/query/9e26f80c-3c34-4fe5-8154-2e87a172e3ff)
@@ -96,8 +96,8 @@ Dev editors edit for:
 | Blogs| Dev edit| Renee, Tonya |     |
 | UI and message text | Dev edit | Tonya, Renee  |     |
 | Docs with major updates | Dev edit | Chris, Nona  |    |
-| Updated white papers| Copy edit| Marge |   |
-| Docs with minor updates| Copy edit | Marge |     |
+| Updated white papers| Copy edit| Chris |   |
+| Docs with minor updates| Copy edit | Chris |     |
 | MS Learn | Dev edit | Julie, Chris |     |
 | Learning paths | Dev edit | Chris  |      |
 | Video scripts | Dev edit| Tonya, Renee  |        |
